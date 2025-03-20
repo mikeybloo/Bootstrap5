@@ -5,3 +5,8 @@
     font-size: 2rem;
     text-align: center;
 }
+
+.box:hover {
+    background-color: white;
+    border: 1px solid green;
+}
